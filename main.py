@@ -1,5 +1,5 @@
 import asyncio
-from contextlib import suppress
+from contextlib import suppres
 
 from bot.utils.launcher import process
 
